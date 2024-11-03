@@ -1,0 +1,169 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: purple;
+}
+.baslik {
+    font-size: 20px;
+    color: gray;
+    background-color: black;
+    height: 30px;
+    text-align: center;
+}
+li  {
+    list-style: none;
+    color: white;
+    border-radius: 3px;
+    display: inline-flex;
+    margin-inline-end: 3px;
+} a {
+    color: white;
+    text-decoration: none;
+   
+}
+a:hover {
+    color: yellow;
+}
+.logo {
+    height: 40px;
+    margin-top: 5px;
+    margin-inline-start: 10px;
+    
+    
+}
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 234, 0, 0.7);    
+    
+}
+.main {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('makeup.jpeg') !important;
+    background-color: rgba(0, 0, 0, 0.7);    
+
+}
+.main .black {
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+.center {
+    border-radius: 15px;
+    color: yellow;
+    text-align: center;
+    font-size: 25px;
+    
+}
+.ara {
+    width: 350px;
+    height: 50px;
+    background-color: purple;
+    border-radius: 20px;
+    border-color: yellow;
+   
+}
+.buttons {
+    height: 35px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 20px;
+    
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+.bir {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 40px;
+    background-image: url('makee.jpeg') !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+   
+}
+.buy {
+    width: 100%;
+    background-color: rgba(255,255,0, 0.9);
+    border-radius: 5px;
+    border-color: purple;
+    
+    
+    
+}
+
+.iki {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 40px;
+    background-image: url('makeuppe.jpeg') !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.uc {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 40px;
+    background-image: url('makeup3.jpg') !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dort {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 40px;
+    background-image: url('melike.jpeg') !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.linkk {
+   
+        display: flex;  
+        align-items: center;
+        justify-content: center;
+       
+        
+}
+.marg {
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+    margin: 25px;
+    }
+    h4 {
+        width: 100%;
+        text-align: center;
+        background-color: rgba(255,255,0, 0.9);
+    }
+    
+
